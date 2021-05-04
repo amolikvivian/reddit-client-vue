@@ -1,9 +1,24 @@
-# Reddit Client - Vue
+# reddit
 
-A basic VueJS application utilizing Reddit API to fetch top posts from a subreddit, currently hard coded to fetch "r/aww"
+## Project setup
+```
+npm install
+```
 
-Upcoming commits to include
-  - Search functionality, to filter user defined subreddit.
-  - Pagination within search results.
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
 
-If you're working with VueJS, feel free to make commits, cheers!
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
