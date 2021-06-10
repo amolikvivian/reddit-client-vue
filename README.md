@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-A basic VueJS application to fetch top posts from defined subreddit, currently hard coded to fetch 'r/aww'.
+A basic VueJS application to fetch top posts from user choice subreddit.
 
 Further versions to include :
 
